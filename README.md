@@ -2,16 +2,11 @@
 <h3 align="center">I think I know coding?</h3>
 <p align="center">
     A few of my skills:<br>
-    Nodejs<br>
-    Arduino<br>
-    Tailwind CSS<br>
-    HTML and CSS<br>
-    JavaScript (Fastify, VueJS, ReactJS, NextJS, ExpressJS, DiscordJS, ChartJS)<br>
+    HTML and CSS (and Tailwind CSS)<br>
+    NodeJS / JavaScipt (Fastify, VueJS, ReactJS, NextJS, ExpressJS, DiscordJS, ChartJS)<br>
     Database (Redis, MongoDB, MySQL)<br>
     Processing (Docker, PM2)<br>
-    External: Figma, Git, NPM, Cloudflare<br>
-    Visual Studio Code<br>
-    Linux Ubuntu<br>
+    External software: Figma, Git, NPM, Cloudflare, VSC<br>
     Other languages: Python, CSharp, C++
 </p>
 <p align="center">
