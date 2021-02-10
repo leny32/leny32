@@ -1,4 +1,4 @@
-<h1 align="center">Hi, it's me, leny32. ( ͡° ͜ʖ ͡°)</h1>
+<h1 align="center">Hi, it's me, leny32. ( ͡° ͜ʖ ͡°) </h1>
 <h3 align="center">I think I know coding?</h3>
 <p align="center">
     <a text-decoration="none" href="https://nodejs.org/" title="Node.js">
