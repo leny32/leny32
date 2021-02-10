@@ -2,8 +2,8 @@
 <h3 align="center">I think I know coding?</h3>
 <p align="center">
     A few of my skills:<br>
-    HTML and CSS (and Tailwind CSS)<br>
     NodeJS / JavaScipt (Fastify, VueJS, ReactJS, NextJS, ExpressJS, DiscordJS, ChartJS)<br>
+    HTML and CSS (and Tailwind CSS)<br>
     Database (Redis, MongoDB, MySQL)<br>
     Processing (Docker, PM2)<br>
     External software: Figma, Git, NPM, Cloudflare, VSC<br>
