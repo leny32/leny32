@@ -7,7 +7,7 @@
     Database (Redis, MongoDB, MySQL)<br>
     Processing (Docker, PM2)<br>
     External software: Figma, Git, NPM, Cloudflare, VSC<br>
-    Other languages: Python, CSharp, C++
+    Other programming languages: Python, CSharp, C++
 </p>
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=leny32&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />&nbsp;
